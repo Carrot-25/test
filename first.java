@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
 public static class first() {
-    psvm
+    private static Type name() {
+        
+    }
+
 }
